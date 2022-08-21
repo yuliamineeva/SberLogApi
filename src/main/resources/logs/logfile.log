@@ -1,0 +1,4 @@
+2022-08-21 19:59:00 INFO  Frontend log:35 - Log{message='text message5', type='Type', level='INFO', time=2022-08-21T15:02}
+2022-08-21 19:59:09 INFO  Frontend log:35 - Log{message='text message7', type='Type', level='INFO', time=2022-08-21T15:03}
+2022-08-21 19:59:31 INFO  Frontend log:35 - Log{message='text message8', type='Type', level='WARN', time=2022-08-21T15:04}
+2022-08-21 20:09:24 INFO  Frontend log:40 - Log{message='text message9', type='Type', level='ERROR', time=2022-08-21T15:05}
